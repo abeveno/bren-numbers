@@ -1,4 +1,7 @@
 # bren-numbers
+
+[DEMO](https://trainghiemso.vn/bren-numbers/)
+
 Bren Numbers (1-4 Players)
 Welcome to the exciting world of Bren Numbers 1.0, a thrilling math challenge game designed to put your mathematical skills to the test! Whether you're looking to challenge yourself or enjoy some competitive fun with friends, this game promises an immersive and engaging experience.
 
